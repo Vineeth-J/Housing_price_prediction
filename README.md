@@ -12,3 +12,6 @@
     - Sklearn for model building
     - Python flask for http server
     - HTML/CSS/Javascript for UI
+ 
+##UI
+![Screenshot (67)](https://github.com/Vineeth-J/Housing_price_prediction/assets/75825994/b5e9a831-d190-4051-962e-e4825be99253)
